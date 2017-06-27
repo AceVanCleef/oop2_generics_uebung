@@ -2,7 +2,7 @@
 
 ## Projektstuktur
 ### Inheritance Tree
-!inheritance tree](https://github.com/AceVanCleef/oop2_generics_uebung/blob/master/documents/inheritance-tree.jpg?raw=true "Inheritance tree")
+![inheritance tree](https://github.com/AceVanCleef/oop2_generics_uebung/blob/master/documents/inheritance-tree.jpg?raw=true "Inheritance tree")
 
 In OOP2 - MSP:
 A = Getränk
