@@ -11,11 +11,11 @@ In OOP2 - MSP:
 - C = Bier
 
 ### Generische Klassen
-- Box<T>:  
+- Box < T>:  
 Eine generische Klasse mit einem einzelnen Typparameter.
 - BoxWith2Typeparams<Q, T>:  
 Eine Klasse mit mehreren Typparametern (hier: key-value - Paar).
-- ArrayBox<T extends A>:  
+- ArrayBox< T extends A>:  
 Eine generische Klasse mit constraints (extends, super)
 
 ### TestGenerics
